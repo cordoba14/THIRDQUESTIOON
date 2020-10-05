@@ -1,0 +1,16 @@
+h1 {
+            color: black;
+            text-align: left;
+        }
+h2 {
+            color: blue;
+            text-align: center;
+            font-family: century gothic, serif; font-size:18pt; font-style:italic;
+        }
+h3 {
+            color: red;
+            text-align: left;
+            font-family: arial, serif; font-size:40pt; font-style:comic sans;
+            background: silver;
+
+        }
